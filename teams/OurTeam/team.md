@@ -2,7 +2,7 @@
 
 ## Team Name
 
-Merge Conflict Survivors
+Merge Survivors
 
 ## Project Manager
 
