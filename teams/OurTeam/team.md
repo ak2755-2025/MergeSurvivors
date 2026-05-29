@@ -10,7 +10,7 @@ Jane Doe
 
 ## Team Members
 
-- Jane Doe
+- Khush Patel
 - John Smith
 - Alice Johnson
 - Bob Williams
