@@ -6,11 +6,10 @@ Merge Conflict Survivors
 
 ## Project Manager
 
-Jane Doe
+Andrew Kim
 
 ## Team Members
 
 - Khush Patel
-- John Smith
-- Alice Johnson
-- Bob Williams
+- Emerson Perez
+- Andrew Kim

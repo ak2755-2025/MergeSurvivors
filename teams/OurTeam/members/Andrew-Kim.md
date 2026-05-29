@@ -2,7 +2,7 @@
 
 ## My Name
 
-Bill McCann
+Andrew Kim
 
 ## Favorite Technology
 
@@ -10,10 +10,10 @@ VS Code
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
+- Reading
+- Climbing
 - Gaming
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Avatar the Last Airbender
